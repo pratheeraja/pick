@@ -1,0 +1,73 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/atotto/clipboard",
+			"repository": "https://github.com/atotto/clipboard",
+			"revision": "d35a4e46333237c6543ed5ef8804f7e922b30544",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/docopt/docopt-go",
+			"repository": "https://github.com/docopt/docopt-go",
+			"revision": "854c423c810880e30b9fecdabb12d54f4a92f9bb",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/golang/crypto/openpgp",
+			"repository": "https://github.com/golang/crypto",
+			"revision": "346896d57731cb5670b36c6178fc5519f3225980",
+			"branch": "master",
+			"path": "/openpgp"
+		},
+		{
+			"importpath": "golang.org/x/crypto/cast5",
+			"repository": "https://go.googlesource.com/crypto",
+			"revision": "346896d57731cb5670b36c6178fc5519f3225980",
+			"branch": "master",
+			"path": "/cast5"
+		},
+		{
+			"importpath": "golang.org/x/crypto/openpgp/armor",
+			"repository": "https://go.googlesource.com/crypto",
+			"revision": "346896d57731cb5670b36c6178fc5519f3225980",
+			"branch": "master",
+			"path": "/openpgp/armor"
+		},
+		{
+			"importpath": "golang.org/x/crypto/openpgp/elgamal",
+			"repository": "https://go.googlesource.com/crypto",
+			"revision": "346896d57731cb5670b36c6178fc5519f3225980",
+			"branch": "master",
+			"path": "/openpgp/elgamal"
+		},
+		{
+			"importpath": "golang.org/x/crypto/openpgp/errors",
+			"repository": "https://go.googlesource.com/crypto",
+			"revision": "346896d57731cb5670b36c6178fc5519f3225980",
+			"branch": "master",
+			"path": "/openpgp/errors"
+		},
+		{
+			"importpath": "golang.org/x/crypto/openpgp/packet",
+			"repository": "https://go.googlesource.com/crypto",
+			"revision": "346896d57731cb5670b36c6178fc5519f3225980",
+			"branch": "master",
+			"path": "/openpgp/packet"
+		},
+		{
+			"importpath": "golang.org/x/crypto/openpgp/s2k",
+			"repository": "https://go.googlesource.com/crypto",
+			"revision": "346896d57731cb5670b36c6178fc5519f3225980",
+			"branch": "master",
+			"path": "/openpgp/s2k"
+		},
+		{
+			"importpath": "golang.org/x/crypto/ssh/terminal",
+			"repository": "https://go.googlesource.com/crypto",
+			"revision": "beef0f4390813b96e8e68fd78570396d0f4751fc",
+			"branch": "master",
+			"path": "/ssh/terminal"
+		}
+	]
+}
